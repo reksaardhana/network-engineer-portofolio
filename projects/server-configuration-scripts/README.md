@@ -19,10 +19,11 @@ Skrip otomatisasi untuk konfigurasi server Linux dan Windows. Skrip ini dirancan
    ```bash
    chmod +x setup.sh
    sudo ./setup.sh
+   ```
 
-    **Penjelasan**:
-   - `chmod +x setup.sh`: Memberikan izin eksekusi pada skrip.
-   - `sudo ./setup.sh`: Menjalankan skrip dengan hak akses superuser.
+ **Penjelasan**:
+ - `chmod +x setup.sh`: Memberikan izin eksekusi pada skrip.
+ - `sudo ./setup.sh`: Menjalankan skrip dengan hak akses superuser.
 
 ### Windows Setup
 
