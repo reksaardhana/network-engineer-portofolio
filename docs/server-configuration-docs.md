@@ -17,3 +17,11 @@ Sebelum memulai konfigurasi, pastikan Anda memiliki:
 ```bash
 sudo apt update && sudo apt upgrade -y
 
+### Untuk distribusi berbasis RPM seperti CentOS:
+
+```bash
+sudo yum update -y
+
+### Instalasi Paket yang Diperlukan
+
+
