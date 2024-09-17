@@ -28,7 +28,7 @@ Temukan konfigurasi switch di [switch-config.txt](configs/switch-config.txt).
 
 ## Screenshot
 
-![Contoh Topologi](https://github.com/ReksaArdhana/network-engineer-portfolio/blob/main/projects/network-simulator/configs/Cuplikan%20layar%202024-09-18%20002947.png)
+![Contoh Topologi](https://github.com/ReksaArdhana/network-engineer-portfolio/blob/main/docs/images/network-diagram.png)
 
 ## Kontak
 
