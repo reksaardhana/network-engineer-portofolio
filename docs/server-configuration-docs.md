@@ -16,7 +16,7 @@ Sebelum memulai konfigurasi, pastikan Anda memiliki:
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-
+```
 ### Untuk distribusi berbasis RPM seperti CentOS:
 
 ```bash
