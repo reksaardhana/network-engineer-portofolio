@@ -24,5 +24,36 @@ sudo yum update -y
 ```
 
 ### Instalasi Paket yang Diperlukan
-####Di Ubuntu/Debian:
+Di Ubuntu/Debian:
 
+```bash
+sudo apt install -y net-tools iproute2 vim curl
+```
+
+Di CentOS/RHEL:
+
+```bash
+sudo yum install -y net-tools iproute vim curl
+```
+
+## 2. Konfigurasi Jaringan
+
+###Mengonfigurasi IP Statis
+Edit file konfigurasi jaringan:
+
+Di Ubuntu/Debian
+Edit file /etc/netplan/01-netcfg.yaml:
+
+```bash
+network:
+  version: 2
+  ethernets:
+    ens33:
+      addresses:
+        - 192.168.1.100/24
+      gateway4: 192.168.1.1
+      nameservers:
+        addresses:
+          - 8.8.8.8
+          - 8.8.4.4
+```
