@@ -60,8 +60,7 @@ Dokumentasi untuk konfigurasi server menggunakan skrip otomatisasi.
 
 Jika Anda tertarik untuk mendiskusikan lebih lanjut atau memiliki pertanyaan, silakan hubungi saya:
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [reksaardhanaa@gmail.com]
 
 Terima kasih telah mengunjungi portofolio saya!
 
