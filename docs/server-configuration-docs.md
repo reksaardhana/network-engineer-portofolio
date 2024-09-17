@@ -21,7 +21,8 @@ sudo apt update && sudo apt upgrade -y
 
 ```bash
 sudo yum update -y
+```
 
 ### Instalasi Paket yang Diperlukan
-
+####Di Ubuntu/Debian:
 
