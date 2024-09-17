@@ -64,3 +64,7 @@ apt-get update && apt-get upgrade -y
 
 # Instalasi paket dasar
 apt-get install -y net-tools vim curl
+
+## Kontak
+
+Untuk pertanyaan atau kontribusi, silakan hubungi saya di [reksaardhanaa@gmail.com].
