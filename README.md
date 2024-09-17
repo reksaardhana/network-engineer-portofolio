@@ -11,7 +11,7 @@ Selamat datang di portofolio saya! Di sini, Anda akan menemukan berbagai proyek 
 
 ## Tentang Saya
 
-👋 Hi, I’m [Your Name]  
+👋 Hi, I’m Reksa   
 🔧 Network Engineer dengan pengalaman dalam konfigurasi jaringan, keamanan jaringan, dan administrasi sistem.  
 🌐 Bersemangat dalam mengembangkan dan mengelola infrastruktur jaringan yang aman dan efisien.
 
