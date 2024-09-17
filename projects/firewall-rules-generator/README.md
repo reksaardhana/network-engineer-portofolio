@@ -56,3 +56,6 @@ Pastikan Anda memiliki akses yang diperlukan untuk mengubah aturan firewall pada
    **Penjelasan**:
    - `.\firewall-rules-generator.ps1`: Menjalankan skrip PowerShell yang ada di direktori saat ini.
 
+## Kontak
+
+Untuk pertanyaan atau kontribusi, silakan hubungi saya di [reksaardhanaa@gmail.com].
