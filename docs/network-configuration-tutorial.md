@@ -12,7 +12,7 @@ Sebelum memulai tutorial ini, pastikan Anda memiliki:
 
 ## 1. Topologi Jaringan
 
-![Diagram Jaringan](docs/images/network-diagram.png)
+![Diagram Jaringan](images/network-diagram.png)
 
 Deskripsi: Topologi jaringan yang akan dikonfigurasi mencakup satu router dan satu switch yang terhubung ke beberapa perangkat klien.
 
@@ -122,11 +122,3 @@ Untuk informasi lebih lanjut tentang konfigurasi jaringan, kunjungi:
 - Dokumentasi GNS3
 
 
-   ```bas
-   ip route 192.168.2.0 255.255.255.0 192.168.1.2
-   ```
-
-
-   ```bas
-   ip route 192.168.2.0 255.255.255.0 192.168.1.2
-   ```
