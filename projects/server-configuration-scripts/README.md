@@ -2,28 +2,32 @@
 
 ## Deskripsi
 
-Skrip otomatisasi untuk konfigurasi server Linux dan Windows. Skrip ini dirancang untuk menyederhanakan dan mempercepat proses pengaturan server, termasuk konfigurasi jaringan, instalasi perangkat lunak, dan pengaturan sistem.
+Skrip otomatisasi untuk konfigurasi server Linux dan Windows. Skrip ini dirancang untuk menyederhanakan dan mempercepat proses pengaturan server, termasuk konfigurasi jaringan, instalasi perangkat lunak, dan pengaturan sistem. Dengan skrip ini, Anda dapat mengotomatisasi konfigurasi dasar dan menghemat waktu dalam pengelolaan server.
 
 ## Fitur
 
 - Konfigurasi dasar server Linux
 - Konfigurasi dasar server Windows
-- Instalasi perangkat lunak umum
+- Instalasi perangkat lunak umum seperti alat jaringan dan utilitas sistem
 
 ## Cara Menggunakan
 
 ### Linux Setup
 
-1. **Unduh Skrip**: Ambil file [setup.sh](linux/setup.sh).
-2. **Jalankan Skrip**: 
-   ```bash
-   chmod +x setup.sh
-   sudo ./setup.sh
-   ```
+1. **Unduh Skrip**:
+   - Unduh file skrip `setup.sh` dari folder [linux](linux/setup.sh) ke server Linux Anda.
 
-  **Penjelasan**:
-  - `chmod +x setup.sh`: Memberikan izin eksekusi pada skrip.
-  - `sudo ./setup.sh`: Menjalankan skrip dengan hak akses superuser.
+2. **Jalankan Skrip**:
+   - Buka terminal dan navigasikan ke direktori tempat Anda menyimpan `setup.sh`.
+   - Berikan izin eksekusi dan jalankan skrip dengan perintah berikut:
+     ```bash
+     chmod +x setup.sh
+     sudo ./setup.sh
+     ```
+
+   **Penjelasan**:
+   - `chmod +x setup.sh`: Memberikan izin eksekusi pada skrip.
+   - `sudo ./setup.sh`: Menjalankan skrip dengan hak akses superuser.
 
 ### Windows Setup
 
